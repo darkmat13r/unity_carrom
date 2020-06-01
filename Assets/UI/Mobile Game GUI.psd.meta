@@ -1,0 +1,3139 @@
+fileFormatVersion: 2
+guid: 5608ca434007e144880dfa17f5556917
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3218544575667667625
+    second: Mobile Game GUI_0
+  - first:
+      213: -4488993685989912494
+    second: Mobile Game GUI_1
+  - first:
+      213: 5447747182930211733
+    second: Mobile Game GUI_2
+  - first:
+      213: -3065484840192201466
+    second: Mobile Game GUI_3
+  - first:
+      213: -6985206831346033445
+    second: Mobile Game GUI_4
+  - first:
+      213: -6368517226394486935
+    second: Mobile Game GUI_5
+  - first:
+      213: -4531965092625141491
+    second: score
+  - first:
+      213: 8888585727690945469
+    second: Mobile Game GUI_7
+  - first:
+      213: -7608864487904560554
+    second: Mobile Game GUI_8
+  - first:
+      213: 348920707353280787
+    second: Mobile Game GUI_9
+  - first:
+      213: 1058683219648848967
+    second: btn_primary
+  - first:
+      213: -7695821711992929589
+    second: Mobile Game GUI_11
+  - first:
+      213: 8924846939364891276
+    second: btn_secondary
+  - first:
+      213: 6361128684062054110
+    second: Mobile Game GUI_13
+  - first:
+      213: 4724378402390553790
+    second: btn_ternary
+  - first:
+      213: -6726164890870102284
+    second: Mobile Game GUI_15
+  - first:
+      213: -2449473061962774370
+    second: Mobile Game GUI_16
+  - first:
+      213: 3760587537699178581
+    second: Mobile Game GUI_17
+  - first:
+      213: 3663106620086903375
+    second: Mobile Game GUI_18
+  - first:
+      213: 5874333958930543833
+    second: slider_bg
+  - first:
+      213: 6828101737154692681
+    second: tooltip_bg
+  - first:
+      213: 6431424773063980940
+    second: slider_progress
+  - first:
+      213: -2207696681383204612
+    second: Mobile Game GUI_22
+  - first:
+      213: 244899857808984422
+    second: Mobile Game GUI_23
+  - first:
+      213: 5265268143959167218
+    second: ic_pause2
+  - first:
+      213: -2246386608848834554
+    second: Mobile Game GUI_25
+  - first:
+      213: -578835047113332373
+    second: Mobile Game GUI_26
+  - first:
+      213: 4084064052315063751
+    second: Mobile Game GUI_27
+  - first:
+      213: -8488898272744099977
+    second: Mobile Game GUI_28
+  - first:
+      213: 9191549537459783185
+    second: Mobile Game GUI_29
+  - first:
+      213: -8489270438795984948
+    second: ic_settings
+  - first:
+      213: -9041046837706035816
+    second: Mobile Game GUI_31
+  - first:
+      213: 208404139998810058
+    second: Mobile Game GUI_32
+  - first:
+      213: -8563564085553494164
+    second: Mobile Game GUI_33
+  - first:
+      213: -7210920966421216482
+    second: Mobile Game GUI_34
+  - first:
+      213: -5548371863063560135
+    second: Mobile Game GUI_35
+  - first:
+      213: 7354405953590221534
+    second: Mobile Game GUI_36
+  - first:
+      213: -3791406620900136213
+    second: Mobile Game GUI_37
+  - first:
+      213: -9060555522910544069
+    second: Mobile Game GUI_38
+  - first:
+      213: -156269542972351683
+    second: Mobile Game GUI_39
+  - first:
+      213: -753625083119671944
+    second: Mobile Game GUI_40
+  - first:
+      213: -5252043529927911918
+    second: Mobile Game GUI_41
+  - first:
+      213: 8694274890273856653
+    second: Mobile Game GUI_42
+  - first:
+      213: 412711126450388916
+    second: Mobile Game GUI_43
+  - first:
+      213: -2529881133795561170
+    second: Mobile Game GUI_44
+  - first:
+      213: -4469284643309424986
+    second: Mobile Game GUI_45
+  - first:
+      213: -5357730063823683593
+    second: Mobile Game GUI_46
+  - first:
+      213: -298064589724709570
+    second: panel_wide
+  - first:
+      213: 1209028637341243245
+    second: ic_close
+  - first:
+      213: 2099893327868735176
+    second: panel_normal
+  - first:
+      213: -5680159051727569383
+    second: ic_menu
+  - first:
+      213: -5396922179137394777
+    second: ic_reload
+  - first:
+      213: -6033307123565835191
+    second: Mobile Game GUI_52
+  - first:
+      213: -6249539696470257854
+    second: Mobile Game GUI_53
+  - first:
+      213: 2900679717325028628
+    second: panel_alert
+  - first:
+      213: 3574115378394860308
+    second: Mobile Game GUI_55
+  - first:
+      213: -5762595746048310366
+    second: ic_close_big
+  - first:
+      213: 5912887005135633030
+    second: ic_confirm
+  - first:
+      213: 5082392406271396313
+    second: panel_pause
+  - first:
+      213: 6338749002178841347
+    second: Mobile Game GUI_59
+  - first:
+      213: 3700024178668783559
+    second: Mobile Game GUI_60
+  - first:
+      213: -7798453832531347717
+    second: Mobile Game GUI_61
+  - first:
+      213: -7024523729346991634
+    second: Mobile Game GUI_62
+  - first:
+      213: 6203424593401535929
+    second: Mobile Game GUI_63
+  - first:
+      213: -4531965092625141491
+    second: Mobile Game GUI_6
+  - first:
+      213: 1058683219648848967
+    second: Mobile Game GUI_10
+  - first:
+      213: 8924846939364891276
+    second: Mobile Game GUI_12
+  - first:
+      213: 4724378402390553790
+    second: Mobile Game GUI_14
+  - first:
+      213: 5874333958930543833
+    second: Mobile Game GUI_19
+  - first:
+      213: 6828101737154692681
+    second: Mobile Game GUI_20
+  - first:
+      213: 6431424773063980940
+    second: Mobile Game GUI_21
+  - first:
+      213: -8489270438795984948
+    second: Mobile Game GUI_30
+  - first:
+      213: -298064589724709570
+    second: Mobile Game GUI_47
+  - first:
+      213: 1209028637341243245
+    second: Mobile Game GUI_48
+  - first:
+      213: 2099893327868735176
+    second: Mobile Game GUI_49
+  - first:
+      213: -5680159051727569383
+    second: Mobile Game GUI_50
+  - first:
+      213: -5396922179137394777
+    second: Mobile Game GUI_51
+  - first:
+      213: 2900679717325028628
+    second: Mobile Game GUI_54
+  - first:
+      213: -5762595746048310366
+    second: Mobile Game GUI_56
+  - first:
+      213: 5912887005135633030
+    second: Mobile Game GUI_57
+  - first:
+      213: 5082392406271396313
+    second: Mobile Game GUI_58
+  - first:
+      213: 2889168445423201069
+    second: Mobile Game GUI_64
+  - first:
+      213: -56809557622021704
+    second: Mobile Game GUI_65
+  - first:
+      213: -2049589418377528439
+    second: Mobile Game GUI_66
+  - first:
+      213: 2460269009212557030
+    second: Mobile Game GUI_67
+  - first:
+      213: 2536652597510266545
+    second: Mobile Game GUI_68
+  - first:
+      213: 4636868383270397005
+    second: Mobile Game GUI_69
+  - first:
+      213: 7834460480452956042
+    second: Mobile Game GUI_70
+  - first:
+      213: 2360144549726809443
+    second: ic_pause
+  - first:
+      213: 6076709363836556750
+    second: Mobile Game GUI_72
+  - first:
+      213: -3417406787105320173
+    second: Mobile Game GUI_73
+  - first:
+      213: 4247719231261408970
+    second: Mobile Game GUI_74
+  - first:
+      213: -1734974634542318729
+    second: Mobile Game GUI_75
+  - first:
+      213: -8141298280614741365
+    second: Mobile Game GUI_76
+  - first:
+      213: -8337584222145902736
+    second: Mobile Game GUI_77
+  - first:
+      213: -1035437815490119484
+    second: Mobile Game GUI_78
+  - first:
+      213: 5882709626091318263
+    second: Mobile Game GUI_79
+  - first:
+      213: 1319613148495957176
+    second: Mobile Game GUI_80
+  - first:
+      213: -5187843748421748270
+    second: Mobile Game GUI_81
+  - first:
+      213: 4578524626337091597
+    second: Mobile Game GUI_82
+  - first:
+      213: -6020111367248288506
+    second: Mobile Game GUI_83
+  - first:
+      213: 6748323778825079990
+    second: Mobile Game GUI_84
+  - first:
+      213: -6827144876555614263
+    second: Mobile Game GUI_85
+  - first:
+      213: 3609840103061878243
+    second: Mobile Game GUI_86
+  - first:
+      213: 6406160284078921844
+    second: Mobile Game GUI_87
+  - first:
+      213: -8368277247388815888
+    second: Mobile Game GUI_88
+  - first:
+      213: 3239244810764355171
+    second: Mobile Game GUI_89
+  - first:
+      213: 5608359199967604000
+    second: Mobile Game GUI_90
+  - first:
+      213: -8850619680935829770
+    second: Mobile Game GUI_91
+  - first:
+      213: -1426559287826086037
+    second: Mobile Game GUI_92
+  - first:
+      213: -6652373968528485258
+    second: Mobile Game GUI_93
+  - first:
+      213: -7589832237477421849
+    second: Mobile Game GUI_94
+  - first:
+      213: -7674576264479705970
+    second: Mobile Game GUI_95
+  - first:
+      213: 8468992286659079850
+    second: Mobile Game GUI_96
+  - first:
+      213: -4810870316401124048
+    second: Mobile Game GUI_97
+  - first:
+      213: -7703864339186825733
+    second: Mobile Game GUI_98
+  - first:
+      213: 5348155871536453985
+    second: Mobile Game GUI_99
+  - first:
+      213: 6116502938140231340
+    second: Mobile Game GUI_100
+  - first:
+      213: -3806369486883506931
+    second: Mobile Game GUI_101
+  - first:
+      213: -5608745414293171609
+    second: Mobile Game GUI_102
+  - first:
+      213: 6597871563414825409
+    second: Mobile Game GUI_103
+  - first:
+      213: -5598601754111617945
+    second: Mobile Game GUI_104
+  - first:
+      213: 8346361307747213452
+    second: Mobile Game GUI_105
+  - first:
+      213: 286091173506073886
+    second: Mobile Game GUI_106
+  - first:
+      213: 4721754760104879769
+    second: Mobile Game GUI_107
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile Game GUI_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5233
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69db52baafc7a243b0c8dbb8172296a
+      internalID: -3218544575667667625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5251
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e2b4105dc4fb64bb3e3ba7d589ad6f
+      internalID: -4488993685989912494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 5233
+        width: 103
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83bf3d2ff5ca94cabdf07771f248eb
+      internalID: 5447747182930211733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5094
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbb3a49f7341c43b0b24bee5544d21
+      internalID: -3065484840192201466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 5204
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76580a9ac94ed944b842b9c486e48be0
+      internalID: -6985206831346033445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5132
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea4aa3e8bbaee49bffdd73d4e6ee06
+      internalID: -6368517226394486935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: score
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5135
+        width: 215
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644cf1df3c62557438cc87ed159e2c0f
+      internalID: -4531965092625141491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5072
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e99f4ec580a7843b3b2506550e4cd9
+      internalID: 8888585727690945469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5054
+        width: 241
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2674d1527450bf94d8c2f5e7641907fb
+      internalID: -7608864487904560554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4953
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a3a1b0ae3f384cb3f40baa42ffe4e
+      internalID: 348920707353280787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4980
+        width: 214
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d28da6c4200ab4587ce0d2172f686b
+      internalID: 1058683219648848967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4981
+        width: 242
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5094e5ee6294fe34a942613812bf67d2
+      internalID: -7695821711992929589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4893
+        width: 215
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66ebb0233164242a1f6becebbae611
+      internalID: 8924846939364891276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 4901
+        width: 202
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808e90cfcfc0654fab943bd8c9f3ab0
+      internalID: 6361128684062054110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_ternary
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4802
+        width: 230
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27340e0e15e09429d46e661305fbcf
+      internalID: 4724378402390553790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 4792
+        width: 220
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1bea858f7b6b42a0a1add8be5163c
+      internalID: -6726164890870102284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4710
+        width: 237
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9718ef825599f41b487fd089456daf
+      internalID: -2449473061962774370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4634
+        width: 231
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d8d58df23cbf4bb53eb887990bb04
+      internalID: 3760587537699178581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4491
+        width: 670
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b4d85f1900364d8d16b1e06f99666
+      internalID: 3663106620086903375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_bg
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4399
+        width: 495
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f71ff4ba78a4ed449b507a0a7d21c95
+      internalID: 5874333958930543833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tooltip_bg
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4396
+        width: 137
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72333f7fbba2f64e87ecd6fde059feb
+      internalID: 6828101737154692681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_progress
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4343
+        width: 361
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 46, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6322727442a984b9d32bb421d6aac1
+      internalID: 6431424773063980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4304
+        width: 146
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed286a31c38ca498aeb277857e6273
+      internalID: -2207696681383204612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4214
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e362616e9b524d9ecf7fbd650d4de
+      internalID: 244899857808984422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_pause2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4214
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ac748c5f64dd48971b0bee16137f1
+      internalID: 5265268143959167218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4211
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1482362b84a7e45b7ee538cae3c93f
+      internalID: -2246386608848834554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4214
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d68c35b4174d248ad8c4d19d3a5e9f
+      internalID: -578835047113332373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4214
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeb907acc514142aa959af3bdda2a7
+      internalID: 4084064052315063751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_28
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4214
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646af11fa961b8a408a03b8cbbf7cc29
+      internalID: -8488898272744099977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3890
+        width: 77
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6fa50c2883d0247b3aa698c4f4c41d
+      internalID: 9191549537459783185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_settings
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4105
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b626a1f7d5a4c41be92076393cc084
+      internalID: -8489270438795984948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4105
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61ed10c77a15d4e82aebc2e5260ff2
+      internalID: -9041046837706035816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4105
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec8332f3048b14098b3c6376872008
+      internalID: 208404139998810058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4105
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51a731205e88648a3fa306244c1574
+      internalID: -8563564085553494164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4105
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de1d806a426544199cda479126c282
+      internalID: -7210920966421216482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_35
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 3892
+        width: 79
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b6cef90589c24b8ca480467f57b97
+      internalID: -5548371863063560135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3996
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ae608008548c4daafde306b90b600
+      internalID: 7354405953590221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3996
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8eb10bfcc2aa24ea7817b5777600e8
+      internalID: -3791406620900136213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3996
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd453ada12c2d20498930b8e0b6017c7
+      internalID: -9060555522910544069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3996
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f394c6c305bef45bfcc67c17a6e766
+      internalID: -156269542972351683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3996
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f60626ed64ce4e9148b3ccd549441
+      internalID: -753625083119671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3892
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5514d823ae7eb814081a0ddefc19a818
+      internalID: -5252043529927911918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3892
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1a66c7bede924f8bf895e239cae8d
+      internalID: 8694274890273856653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3892
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e309dfbd8f7f12147a618fe213dcb92c
+      internalID: 412711126450388916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3892
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b2464bda99d64aae978fff8abcbeb
+      internalID: -2529881133795561170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3892
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b54c4f24a9be409f5866718bcfc80
+      internalID: -4469284643309424986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3788
+        width: 231
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef245ea9aa1a84bb2e7daa2f2c9781
+      internalID: -5357730063823683593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_wide
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3337
+        width: 641
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9200f8167a9f040859dfca9f3be56b
+      internalID: -298064589724709570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_close
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3241
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf90f200d506a44b2dbd3d7675f611
+      internalID: 1209028637341243245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_normal
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2673
+        width: 487
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd60b439a5cd164aae271284ced03a6
+      internalID: 2099893327868735176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_menu
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2580
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a33e279038074dbf081e348c9fa91
+      internalID: -5680159051727569383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_reload
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2578
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bcf6a07bce75e41bc4cfb7a29329bb
+      internalID: -5396922179137394777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_52
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2580
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c8359f960e3ba4f8393530fa9ee90c
+      internalID: -6033307123565835191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2395
+        width: 273
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63512ac583e63c4480dca28ceb1fd20
+      internalID: -6249539696470257854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_alert
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2369
+        width: 364
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d142785ca45744fbcb97e85e21817c
+      internalID: 2900679717325028628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2269
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e27bfb85409d4d9439829aa626df5
+      internalID: 3574115378394860308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_close_big
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2271
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b3459a7350594c900ab4c8d0effdb
+      internalID: -5762595746048310366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_confirm
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2274
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c0c1366435374b96ca4b79099616c
+      internalID: 5912887005135633030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_pause
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2063
+        width: 398
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddd3ae0024add459cd56dcfd112a2e
+      internalID: 5082392406271396313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_59
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2095
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe12c2825df40143b1fa04098ed02ce
+      internalID: 6338749002178841347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_60
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2095
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f27958c4fd074b88b75d979d0f453
+      internalID: 3700024178668783559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2095
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b9910ab850964fbeb46579cb43e83
+      internalID: -7798453832531347717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1135
+        width: 592
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419789410b2fed4cbb221f7ec1cf400
+      internalID: -7024523729346991634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 592
+        height: 811
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4c653ca853494c85121f2055fb335
+      internalID: 6203424593401535929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 12559
+        width: 174
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad96a88eae79c498c5dd23e12d1392
+      internalID: -4531965092625141491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 12603
+        width: 250
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ce2cc7cac9e14894c08e8d01220db
+      internalID: 1058683219648848967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_12
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 12559
+        width: 252
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b404b63286ab4ea76d43229893e39
+      internalID: 8924846939364891276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12224
+        width: 268
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2183d06cad1e14ab0b5847e09068f0
+      internalID: 4724378402390553790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_19
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 12491
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49da29d4fde70944be296b0114d1dbd
+      internalID: 5874333958930543833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_20
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 12317
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb44521f9830a4b988684baf5ae9df
+      internalID: 6828101737154692681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_21
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 12324
+        width: 517
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609094be3a56484e8bf0f628aa48a89
+      internalID: 6431424773063980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12173
+        width: 299
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9f0d907678994980f00acf4a6f76b
+      internalID: -8489270438795984948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_47
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 12130
+        width: 579
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531060b77413c74b90e8b6fd40ec30e
+      internalID: -298064589724709570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11887
+        width: 199
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f68966afe98f64eaf9953688c56259
+      internalID: 1209028637341243245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 11956
+        width: 511
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f2f8bbb6462440b2d0a1ebcf62176
+      internalID: 2099893327868735176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_50
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 11956
+        width: 579
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d24f6c8fea65d4ba48152c5e1597d2
+      internalID: -5680159051727569383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 11744
+        width: 511
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ad7bebade7404ab7b2562ad31767c
+      internalID: -5396922179137394777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_54
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 11763
+        width: 480
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d8d0c65f203e84c92cb4fa3f9a72fc
+      internalID: 2900679717325028628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_56
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11303
+        width: 534
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509dc9693b1bd345b15f96bab0e89a2
+      internalID: -5762595746048310366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_57
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 11501
+        width: 530
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7b310409c16b4da8bd89554a93f79
+      internalID: 5912887005135633030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_58
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 11305
+        width: 567
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bf84b7edd4f041b48211770cfac6c
+      internalID: 5082392406271396313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_64
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 11122
+        width: 555
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41533ac96dfa75e4facd0714fe5fc3fc
+      internalID: 2889168445423201069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 10779
+        width: 1607
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf1c1f4d270d04c868e0c5bde6124f
+      internalID: -56809557622021704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10558
+        width: 1189
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da20fb3e669602a43ab122813916a513
+      internalID: -2049589418377528439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_67
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 10549
+        width: 330
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae785d0f05fa2e4e9b1fc0d99c8d162
+      internalID: 2460269009212557030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10424
+        width: 866
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2373b461f67483b4584e997375f0d966
+      internalID: 2536652597510266545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10331
+        width: 350
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3490fe1df181c847a00ceba4bf83fc1
+      internalID: 4636868383270397005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10113
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e2560d86a3c74e98969791e92a148
+      internalID: 7834460480452956042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_pause
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10113
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26edabf22623ae84990ce026cb2a71c5
+      internalID: 2360144549726809443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_72
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 10107
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d57407f58595f042b398f1be646c758
+      internalID: 6076709363836556750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_73
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 10113
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c8b124f398ac43b99eeb8f504acc0
+      internalID: -3417406787105320173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_74
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 10113
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e803934a8e60340a636a9e5b7b1b07
+      internalID: 4247719231261408970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_75
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 10114
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf995a2a4532974f9ffa715aaf00ddd
+      internalID: -1734974634542318729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_76
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 9341
+        width: 185
+        height: 858
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b86ccaf1919a47a7cecaffb7f0324
+      internalID: -8141298280614741365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9851
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c741107b773943a4245001f83c9e3
+      internalID: -8337584222145902736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9851
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb07ecf4b637748ae686bb3faf9682
+      internalID: -1035437815490119484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 9851
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c34a65940acc4186cdfef4e6a3d2e
+      internalID: 5882709626091318263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_80
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 9851
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33126f4c6c808364eb479d0de755142b
+      internalID: 1319613148495957176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_81
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 9851
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315466e06a8cec4c9c910ffd10fed10
+      internalID: -5187843748421748270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_82
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 9341
+        width: 190
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9155379b0d422448a38136e87f0c76c
+      internalID: 4578524626337091597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9590
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80743f409f6734491bdd8bda2dd8e1
+      internalID: -6020111367248288506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9590
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696daa8f676258438bcba4c97f9c420
+      internalID: 6748323778825079990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_85
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 9590
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c258b269956261f4094595a0bdd66a65
+      internalID: -6827144876555614263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_86
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 9590
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb5506a9b8c56468006fb1ca66f774
+      internalID: 3609840103061878243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_87
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 9590
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38693191c5fc184789592fce3ecae68
+      internalID: 6406160284078921844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_88
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9341
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ad2d339c19d54fbd74bec160b908a
+      internalID: -8368277247388815888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9341
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af300f5bb61beb40aa8d1a1b9918f0f
+      internalID: 3239244810764355171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_90
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 9341
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274280ea274acb48a5fa6229354d0df
+      internalID: 5608359199967604000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_91
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 9341
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834cf4db53930c42b15745c136ab695
+      internalID: -8850619680935829770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_92
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 9341
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293d97cbfa750c48bf9bf315fe264db
+      internalID: -1426559287826086037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_93
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 9092
+        width: 554
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c891e324435439045a757dc83adca01a
+      internalID: -6652373968528485258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8009
+        width: 1540
+        height: 1044
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c313dc589ced548b955b42d2dda1f6
+      internalID: -7589832237477421849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7778
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823edd04e0c4524195be62ebf398720
+      internalID: -7674576264479705970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 6421
+        width: 1170
+        height: 1270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b7401cefd5154abdcaf248c2ea623
+      internalID: 8468992286659079850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6191
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55bb754528b05e4e9bab0de70c45433
+      internalID: -4810870316401124048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_98
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6186
+        width: 175
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d7d273a0cce0341bf1d82eac747f79
+      internalID: -7703864339186825733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_99
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 6192
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3ee5ac9088fc439f4ccdb62733e4c
+      internalID: 5348155871536453985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5749
+        width: 660
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c0cd4931ede549a2cb699e353d9a2
+      internalID: 6116502938140231340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_101
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 5687
+        width: 873
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639880a27a83804fbee7d6a91b848fd
+      internalID: -3806369486883506931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_102
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 5450
+        width: 311
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeced347ac8ede4ea1b5ddd597fd6ad
+      internalID: -5608745414293171609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_103
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 5450
+        width: 175
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f254a2c3e01a14eb3e5d3b8b7b8d75
+      internalID: 6597871563414825409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 5457
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1878f45a9bfe45a366d765ab3abd8
+      internalID: -5598601754111617945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_105
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 5027
+        width: 174
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd1a72117cc7348833806f2e50200e
+      internalID: 8346361307747213452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_106
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 5028
+        width: 174
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bfa5c58b09feb47b90d0dbad804981
+      internalID: 286091173506073886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile Game GUI_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 5028
+        width: 174
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3aefc44122204681ff55653672577
+      internalID: 4721754760104879769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf6c23ced5588e94d8811477b55ba6a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
