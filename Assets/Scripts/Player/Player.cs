@@ -20,8 +20,12 @@ public class Player : MonoBehaviour
     public Action<Boolean> turnFinished;
     public Action<Boolean> turnUpdated;
 
+    [SerializeField] private Striker striker;
     [SerializeField] private BoardPosition boardPosition;
     [SerializeField] private TextMeshProUGUI scoreText;
+    [SerializeField] private float maxMovement = 2.2f;
+    [SerializeField] private float minMovement = -2.2f;
+    
     private PositionInput _positionInput;
     private void Start()
     {
@@ -31,6 +35,45 @@ public class Player : MonoBehaviour
         _ownPieces =  new List<Piece>();
         UpdateScore(score);
         UpdateScoreColor(Color.gray);
+        HandleMovement();
+    }
+    
+    private void ResetStrikerToPlayerPos()
+    {
+        striker.SetPosition(transform.position);
+        if (_positionInput != null)
+            _positionInput.ResetPosition();
+       
+
+    }
+    
+    private void HandleMovement()
+    {
+        if (striker == null) return;
+        _positionInput.onPositionChanged += vector3 =>
+        {
+            
+            if (Striked) return;
+            if (!HasTurn) return;
+            var strikerPos = striker.transform.position;
+            var newPos = strikerPos + vector3;
+            switch (BoardPosition)
+            {
+                case BoardPosition.POSTION_1:
+                case BoardPosition.POSTION_3:
+                {
+                    striker.MoveTo(new Vector3(vector3.x, strikerPos.y, strikerPos.z));
+                    break;
+                }
+                case BoardPosition.POSTION_2:
+                case BoardPosition.POSTION_4:
+                {
+                    var posZ = Mathf.Clamp(newPos.y, minMovement, maxMovement);
+                    striker.MoveTo(new Vector3(strikerPos.x, strikerPos.y, posZ));
+                    break;
+                }
+            }
+        };
     }
 
     private void UpdateScore(int score)
@@ -65,11 +108,18 @@ public class Player : MonoBehaviour
         {
             _hasTurn = value;
             turnUpdated?.Invoke(value);
+            
+            if (_positionInput != null)
+            {
+                _positionInput.ShowSlider(_hasTurn);
+            }
+            
             if (value)
             {
                 _scored = false;
                 UpdateScoreColor(Color.white);
                 _striked = false;
+                ResetStrikerToPlayerPos();
             }
             else
             {

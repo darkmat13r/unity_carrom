@@ -48,7 +48,6 @@ namespace Pieces
 
         protected virtual void OnCollisionEnter(Collision other)
         {
-            Debug.Log("Piece hit something " + other.collider.tag);
             if (other.collider.CompareTag("Rail"))
             {
                _audioSource.PlayOneShot(_audioSource.clip);

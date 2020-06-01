@@ -34,7 +34,6 @@ namespace Input
         {
             if (_currentState == State.Idle && !striker.IsMoving())
             {
-                Debug.Log("!_charging  && _allowInput :  " +(!_charging  && _allowInput));
                 if (UnityEngine.Input.GetMouseButtonDown(0) && !_charging  && _allowInput)
                 {
                     _strikerPosition = striker.transform.position;

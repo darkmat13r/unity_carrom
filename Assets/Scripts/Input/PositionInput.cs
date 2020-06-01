@@ -18,6 +18,10 @@ namespace Input
             });
         }
 
+        public void ShowSlider(bool show)
+        {
+            _slider.gameObject.SetActive(show);
+        }
 
         public void ResetPosition()
         {

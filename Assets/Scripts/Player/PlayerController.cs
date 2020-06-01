@@ -10,15 +10,13 @@ using UnityEngine.Serialization;
 [RequireComponent(typeof(PositionInput), typeof(StrikeInput))]
 public class PlayerController : MonoBehaviour
 {
-    private PositionInput _positionInput;
     private StrikeInput _strikeInput;
     private Player _player;
 
     [SerializeField] private Striker striker;
     [SerializeField] private UIManager uiManager;
     [SerializeField] private CarromBoard carromBoard;
-    [SerializeField] private float maxMovement = 2.2f;
-    [SerializeField] private float minMovement = -2.2f;
+   
 
     [SerializeField]
     private Player[] _players;
@@ -28,10 +26,9 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         
-        _positionInput = GetComponent<PositionInput>();
         _strikeInput = GetComponent<StrikeInput>();
         
-        HandleMovement();
+       
         HandlePullAndShoot();
     }
 
@@ -55,7 +52,6 @@ public class PlayerController : MonoBehaviour
             if (b)
             {
                 Debug.Log("ResetStrikerToPlayerPos " + _player.transform.name + " ----> " + _player.transform.position);
-                ResetStrikerToPlayerPos(_player);
                 if (_strikeInput != null)
                 {
                     _strikeInput.AllowInput(true);
@@ -66,12 +62,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    private void ResetStrikerToPlayerPos(Player player)
-    {
-        striker.SetPosition(player.transform.position);
-        if (_positionInput != null)
-            _positionInput.ResetPosition();
-    }
+  
 
 
     private IEnumerator CheckIfStrikerIsMoving()
@@ -101,34 +92,7 @@ public class PlayerController : MonoBehaviour
         };
     }
 
-    private void HandleMovement()
-    {
-        if (striker == null) return;
-        _positionInput.onPositionChanged += vector3 =>
-        {
-            
-            if (_player.Striked) return;
-            if (!_player.HasTurn) return;
-            var strikerPos = striker.transform.position;
-            var newPos = strikerPos + vector3;
-            switch (_player.BoardPosition)
-            {
-                case BoardPosition.POSTION_1:
-                case BoardPosition.POSTION_3:
-                {
-                    striker.MoveTo(new Vector3(vector3.x, strikerPos.y, strikerPos.z));
-                    break;
-                }
-                case BoardPosition.POSTION_2:
-                case BoardPosition.POSTION_4:
-                {
-                    var posZ = Mathf.Clamp(newPos.y, minMovement, maxMovement);
-                    striker.MoveTo(new Vector3(strikerPos.x, strikerPos.y, posZ));
-                    break;
-                }
-            }
-        };
-    }
+   
     
      private void InitCarromBoard()
     {
